@@ -106,6 +106,7 @@
 </table>
 
 <div align="center">
+  
   <img src="https://media.tenor.com/zio7E5pDXwMAAAAM/toga-himiko.gif" width="400px" alt="Toga Dancing"/>
   
   <picture>
@@ -113,6 +114,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake.svg">
   </picture>
+  
 </div>
 
 ---
@@ -126,7 +128,6 @@
   
   <br>
   
-  <p>Last updated: 2025-03-07 23:19:27 (UTC)</p>
 </div>
 
 <div align="center">
