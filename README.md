@@ -18,7 +18,7 @@
 - 🩸 Favorite anime character: Toga Himiko from My Hero Academia
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F75D7E&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Passionate+about+code+and+anime;Let's+create+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F75D7E&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Passionate+about+code+and+anime" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Technologies & Tools
