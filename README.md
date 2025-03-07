@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://i.imgur.com/oOi4BpZ.gif" width="270px" alt="Toga Himiko"/>
+<img align="right" src="[https://i.imgur.com/oOi4BpZ.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fr1lySbqEInYAAAAC%2Ftoga-himiko.gif&f=1&nofb=1&ipt=3a1a973ed0b155979d5492efc60986d477559f4196f10903e00920e6a83cdf34&ipo=images)" width="270px" alt="Toga Himiko"/>
 
 - 🔭 I'm currently working on exciting game development projects
 - 🌱 I'm continuously learning new programming languages and frameworks
@@ -131,4 +131,6 @@
   <p>Last updated: 2025-03-07 23:19:27 (UTC)</p>
 </div>
 
+<div align="center">
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120) <button class="citation-flag" data-index="2">
+</div>
