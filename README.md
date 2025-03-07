@@ -74,7 +74,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/LIgvvNr.gif" height="200px" alt="Toga Himiko Cute"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2021/10/himiko-toga-gif-5.gif" height="200px" alt="Toga Himiko Cute"/>
 </div>
 
 ## ✨ Recent Activity
