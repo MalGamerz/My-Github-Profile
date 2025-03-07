@@ -2,7 +2,7 @@
 
 # ✨ Welcome to MalGamerz's GitHub Profile ✨
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=MalGamerz&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20|%20Anime%20Enthusiast&descAlignY=60&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&text=MalGamerz&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20|%20Anime%20Enthusiast&descAlignY=60&descSize=20) <button class="citation-flag" data-index="2">
 
 <img src="https://i.imgur.com/ReFQdpG.gif" width="300px" alt="Toga Himiko Animation"/>
 
@@ -116,7 +116,6 @@
   
   <br>
   
-  <!-- This shows a snake animation of your contribution graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake.svg">
@@ -132,4 +131,4 @@
   <p>Last updated: 2025-03-07 23:19:27 (UTC)</p>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120) <button class="citation-flag" data-index="2">
