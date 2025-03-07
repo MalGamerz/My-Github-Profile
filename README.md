@@ -108,6 +108,8 @@
 <div align="center">
   
   <img src="https://media.tenor.com/zio7E5pDXwMAAAAM/toga-himiko.gif" width="400px" alt="Toga Dancing"/>
+
+  <br>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalGamerz/MalGamerz/output/github-contribution-grid-snake-dark.svg">
@@ -121,13 +123,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MalGamerz&label=Profile%20Visits&color=F75D7E&style=for-the-badge" alt="MalGamerz" />
-
-  <br>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-  
-  <br>
-  
 </div>
 
 <div align="center">
