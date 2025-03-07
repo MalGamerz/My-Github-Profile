@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://c.tenor.com/2lzbHe0cUkIAAAAd/himiko-toga-toga.gif" width="270px" height="200px" alt="Toga Himiko"/>
+<img align="right" src="https://c.tenor.com/2lzbHe0cUkIAAAAd/himiko-toga-toga.gif" width="270px" style="margin-top: 20px; shape-outside: circle();" alt="Toga Himiko"/>
 
 - 🔭 I'm currently working on exciting game development projects
 - 🌱 I'm continuously learning new programming languages and frameworks
