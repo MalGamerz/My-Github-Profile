@@ -4,13 +4,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&text=MalGamerz&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20|%20Anime%20Enthusiast&descAlignY=60&descSize=20) <button class="citation-flag" data-index="2">
 
-<img src="https://media.tenor.com/r1lySbqEInYAAAAC/toga-himiko.gif" width="300px" alt="Toga Himiko Animation"/>
-
 </div>
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://c.tenor.com/2lzbHe0cUkIAAAAd/himiko-toga-toga.gif" width="270px" style="margin-top: 20px; shape-outside: circle();" alt="Toga Himiko"/>
+<img align="right" src="https://media.tenor.com/r1lySbqEInYAAAAC/toga-himiko.gif" width="270px" style="margin-top: 20px; shape-outside: circle();" alt="Toga Himiko"/>
 
 - 🔭 I'm currently working on exciting game development projects
 - 🌱 I'm continuously learning new programming languages and frameworks
