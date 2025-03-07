@@ -1,7 +1,5 @@
 <div align="center">
 
-# ✨ Welcome to MalGamerz's GitHub Profile ✨
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&text=MalGamerz&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20|%20Anime%20Enthusiast&descAlignY=60&descSize=20) <button class="citation-flag" data-index="2">
 
 </div>
