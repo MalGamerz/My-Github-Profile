@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://c.tenor.com/2lzbHe0cUkIAAAAd/himiko-toga-toga.gif" width="270px" alt="Toga Himiko"/>
+<img align="right" src="https://c.tenor.com/2lzbHe0cUkIAAAAd/himiko-toga-toga.gif" width="270px" height="200px" alt="Toga Himiko"/>
 
 - 🔭 I'm currently working on exciting game development projects
 - 🌱 I'm continuously learning new programming languages and frameworks
@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://usagif.com/wp-content/uploads/gify/toga-himiko-super-cute-epic-my-hero-academia-usagif-title.gif" width="400px" alt="Toga Animation"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px" alt="Animation"/>
 </div>
 
 ## 📊 GitHub Stats
