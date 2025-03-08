@@ -91,23 +91,23 @@ Dying
 <table align="center" style="border-collapse: separate; border-spacing: 10px;">
   <tr>
     <th>🎮 Playing games like:</th>
-    <th>📺 Watching anime like:</th>
+    <th>📺 Reading manga like:</th>
     <th>🌟 Learning about:</th>
   </tr>
   <tr>
-    <td>Final Fantasy</td>
-    <td>My Hero Academia</td>
-    <td>AI & Machine Learning</td>
+    <td>RDR2</td>
+    <td>Sakamoto</td>
+    <td>How to be alive</td>
   </tr>
   <tr>
-    <td>Resident Evil</td>
-    <td>Demon Slayer</td>
+    <td>GTA V</td>
+    <td>The Greatest Estate Developer</td>
     <td>Game Development</td>
   </tr>
   <tr>
-    <td>Persona 5</td>
-    <td>Attack on Titan</td>
-    <td>Creative Design</td>
+    <td>TLOU</td>
+    <td>Mairimashita! Iruma-kun</td>
+    <td>Programming stuff</td>
   </tr>
 </table>
 
