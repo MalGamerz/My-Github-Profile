@@ -110,11 +110,13 @@
 
 <div align="center">
   <img src="https://media.tenor.com/zio7E5pDXwMAAAAM/toga-himiko.gif" width="300px" style="border-radius: 10px;" alt="Toga Dancing"/>
+  <br>
+  <img src="https://www.gifcen.com/wp-content/uploads/2021/10/himiko-toga-gif-5.gif" height="200px" alt="Toga Himiko Cute"/>
 </div>
 
 <br>
 
-<div>
+<div align="center">
   <h3>Support:</h3>
   <a href="https://www.buymeacoffee.com/malgamerz"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/malgamerz" />
