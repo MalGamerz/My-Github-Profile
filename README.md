@@ -80,10 +80,13 @@
 
 ## ✨ Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+Dying
 
 ## 🎮 When I'm Not Coding...
+
+<div align="center">
+  <img src="https://www.gifcen.com/wp-content/uploads/2021/10/himiko-toga-gif-5.gif" height="200px" alt="Toga Himiko Cute"/>
+</div>
 
 <table align="center" style="border-collapse: separate; border-spacing: 10px;">
   <tr>
@@ -111,7 +114,6 @@
 <div align="center">
   <img src="https://media.tenor.com/zio7E5pDXwMAAAAM/toga-himiko.gif" width="300px" style="border-radius: 10px;" alt="Toga Dancing"/>
   <br>
-  <img src="https://www.gifcen.com/wp-content/uploads/2021/10/himiko-toga-gif-5.gif" height="200px" alt="Toga Himiko Cute"/>
 </div>
 
 <br>
