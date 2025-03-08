@@ -111,8 +111,10 @@
   
   ![Snake animation](https://github.com/MalGamerz/MalGamerz/blob/output/github-contribution-grid-snake.svg)
 
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/malgamerz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/malgamerz" /></a></p><br><br>
+  <div align="center">
+    <h3 align="left">Support:</h3>
+    <p><a href="https://www.buymeacoffee.com/malgamerz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/malgamerz" /></a></p><br><br>
+  </div>
   
 </div>
 
@@ -120,12 +122,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MalGamerz&label=Profile%20Visits&color=F75D7E&style=for-the-badge" alt="MalGamerz" />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malgamerz&show_icons=true&locale=en&layout=compact" alt="malgamerz" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malgamerz&show_icons=true&locale=en" alt="malgamerz" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malgamerz&" alt="malgamerz" /></p>
-
 </div>
 
 <div align="center">
