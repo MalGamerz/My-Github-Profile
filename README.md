@@ -64,6 +64,10 @@
 ## 🔗 Connect with Me
 
 <div align="center">
+  <img src="https://www.gifcen.com/wp-content/uploads/2021/10/himiko-toga-gif-5.gif" height="200px" alt="Toga Himiko Cute"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/MalGamerz" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -83,10 +87,6 @@
 Dying
 
 ## 🎮 When I'm Not Coding...
-
-<div align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2021/10/himiko-toga-gif-5.gif" height="200px" alt="Toga Himiko Cute"/>
-</div>
 
 <table align="center" style="border-collapse: separate; border-spacing: 10px;">
   <tr>
