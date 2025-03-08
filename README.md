@@ -120,6 +120,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MalGamerz&label=Profile%20Visits&color=F75D7E&style=for-the-badge" alt="MalGamerz" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malgamerz&show_icons=true&locale=en&layout=compact" alt="malgamerz" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malgamerz&show_icons=true&locale=en" alt="malgamerz" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malgamerz&" alt="malgamerz" /></p>
+
 </div>
 
 <div align="center">
