@@ -127,10 +127,12 @@ Dying
 
 <br>
 
-![snake animation](https://github.com/MalGamerz/MalGamerz/blob/output/github-contribution-grid-snake2.svg)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MalGamerz&label=Profile%20Visits&color=F75D7E&style=for-the-badge" alt="MalGamerz" />
+</div>
+
+<div align="center">
+  ![snake animation](https://github.com/MalGamerz/MalGamerz/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 <div align="center">
