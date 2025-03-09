@@ -132,7 +132,7 @@ Dying
 </div>
 
 <div align="center">
-  ![snake animation](https://github.com/MalGamerz/MalGamerz/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/MalGamerz/MalGamerz/raw/output/github-contribution-grid-snake2.svg)
 </div>
 
 <div align="center">
